@@ -1,0 +1,16 @@
+.header
+{
+	text-align: center;
+	background-color: #cdcdcd;
+	padding:10px;
+}
+.header a
+{
+	color: blue; 
+	border-bottom: 2px solid blue;
+	text-decoration: none;
+}
+.main
+{
+	padding:0px 10px;
+}

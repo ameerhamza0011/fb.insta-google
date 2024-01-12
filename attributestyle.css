@@ -1,0 +1,9 @@
+input[type="text"]{
+	color: red;
+		}
+/*a[href="https://google"]{
+	color: red;
+}	*/
+header [input="a"]{
+	color: red;
+}	

@@ -1,0 +1,74 @@
+.about
+{
+	padding-left: 5px;
+	display: flex;
+	padding-left: 20px;
+}
+.stor
+{
+	padding-left: 20px;
+}
+.gmail
+{
+	padding-left: 75%;
+}
+.image
+{
+	padding-left: 20px;
+}
+.imdot
+{
+	height: 20px;
+	padding-top: 15px;
+	padding-left:20px;
+}
+.sign
+{
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	margin:10px;
+
+}
+.gimg
+{
+	padding-left: 24%;
+}
+.bar
+{
+	display: flex;
+}
+.adv
+{
+	padding-left: 10px;
+	padding-top: 10%;
+}
+.bus
+{
+	padding-left: 20px;
+	padding-top: 10%;
+}
+.how
+{
+	padding-left: 20px;
+	padding-top: 10%;
+}
+.pri
+{
+	padding-left: 60%;
+	padding-top: 10%;
+}
+.ter
+{
+	padding-left: 20px;
+	padding-top: 10%;
+}
+.sett
+{
+	padding-left: 20px;
+	padding-top: 10%;
+}
